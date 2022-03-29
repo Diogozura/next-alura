@@ -197,7 +197,8 @@ export default function HomeScreen() {
                         },
                       }}
                     >
-                      O que tem de novo?
+                      {/* O que tem de novo? */}
+                      O que tem contigo ai
                     </Text>
                     <Text
                       styleSheet={{
